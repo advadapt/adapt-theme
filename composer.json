@@ -1,5 +1,6 @@
 {
     "name": "advadapt/adapt-theme",
+    "version": "1.0.0-dev",
     "description": "Adapt Theme for AdaptPress",
     "type": "adaptpress-theme",
     "license": "MIT",
